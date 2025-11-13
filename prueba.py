@@ -10,7 +10,7 @@ profesor1 = profesor(
     apellido="Perez",
     edad=40,
     especialidad="Matematica",
-    correo="martita2721@gmail.com",  
+    correo="t4yl0r.4l1s0n.sw1ft.shake.it.off@gmail.com",  
     password="pgbq lhag qsch vnro"     
 )
 
@@ -21,7 +21,7 @@ estudiante1 = estudiante(
     edad=22,
     legajo=1234,
     curso="4to A",
-    correo="martita2721@gmail.com",  
+    correo="t4yl0r.4l1s0n.sw1ft.shake.it.off@gmail.com",  
     password="pgbq lhag qsch vnro",
     id=1,
     coins=100  
@@ -97,3 +97,4 @@ profesor1.visualizarBeneficios(estudiante1)
 
 estudiante1.checkearTareas()
 print("Fin de la prueba")
+
